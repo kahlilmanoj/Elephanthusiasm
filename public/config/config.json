@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2AE4Bf339b3bb89736fd54f753F945CCCac5CDE2",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x2ae4bf339b3bb89736fd54f753f945cccac5cde2",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 137
+  },
+  "NFT_NAME": "Elephanthusaism",
+  "SYMBOL": "ENFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
