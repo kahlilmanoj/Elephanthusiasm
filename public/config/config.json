@@ -10,7 +10,7 @@
   "SYMBOL": "ENFT",
   "MAX_SUPPLY": 100,
   "WEI_COST": 5,
-  "DISPLAY_COST": 0.05,
+  "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "",
