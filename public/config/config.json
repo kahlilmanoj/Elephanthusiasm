@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x2AE4Bf339b3bb89736fd54f753F945CCCac5CDE2",
-  "SCAN_LINK": "https://testnet.bscscan.com/address/0x2ae4bf339b3bb89736fd54f753f945cccac5cde2",
+  "CONTRACT_ADDRESS": "0x561046dc778AfB6bf8bFeDf115a463eD4243970C",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x561046dc778AfB6bf8bFeDf115a463eD4243970C",
   "NETWORK": {
     "NAME": "BSC",
     "SYMBOL": "BNB",
@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Elephanthusaism",
   "SYMBOL": "ENFT",
-  "MAX_SUPPLY": 10,
+  "MAX_SUPPLY": 100,
   "WEI_COST": 5,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
