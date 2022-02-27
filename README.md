@@ -1,4 +1,4 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Elephant Paradise NFT 💎
 
 ![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
 
@@ -14,7 +14,7 @@ To find out more please visit:
 
 [ℹ️ Website](https://thestripesnft.com/)
 
-# The Stripes NFT minting dapp 🔥
+# Elephant Paradise NFT minting dapp 🔥
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -55,7 +55,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
+  "NFT_NAME": "Elephant Paradise NFT",
   "SYMBOL": "TSNFT",
   "MAX_SUPPLY": 992,
   "WEI_COST": 75000000000000000,
@@ -85,13 +85,13 @@ Next change the theme colors to your liking in the `public/config/theme.css` fil
 }
 ```
 
-Now you will need to create and change the `public/favicon.ico`, `public/logo192.png`, and
+Now you will need to create and change the `public/logo.ico`, `public/logo192.png`, and
 `public/logo512.png` to your brand images.
 
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>The Stripes NFT</title>
+<title>Elephant Paradise NFT</title>
 <meta name="description" content="Mint your Stripes NFT" />
 ```
 
@@ -100,7 +100,7 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 ```json
 {
   "short_name": "TSNFT",
-  "name": "The Stripes NFT"
+  "name": "Elephant Paradise NFT"
 }
 ```
 
